@@ -1,5 +1,5 @@
 # EmployeeREST_Api
-Employee Rest Api for including crud operations in h2 DB
+Employee REST Api for including crud operations in h2 DB
 
 #Use Post Man to send the requests
 
